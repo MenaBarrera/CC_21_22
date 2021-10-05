@@ -13,6 +13,8 @@ Gran parte de la población española dispone de un vehiculo a motor en propieda
 Para su correcto funcionamiento los vehiculos necesitan mantenimientos de multitud de piezas
 (embrague, correa de distribubución, aceite, filtros...). Si a esto se le suma que los vehiculos sufren averías a lo largo del tiempo, al final se hace dificil llevar un control de todas las reparaciones que se le han realizado.
 
+En la actualidad no existen herramientas específicas que gestionen esta situación. Hace algunos años había un par de aplicaciones móviles que desempeñaban esta tarea, pero desafortunadamente los desarolladores dejaron de darle soporte y quedaron obsoletas.
+
 ### Solución y lógica de negocio
 
 Crear un servicio donde el responsable del taller mecánico introduzca las referencias de las piezas, descripcion y precio.
