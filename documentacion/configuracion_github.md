@@ -16,7 +16,11 @@ Para configurar la clave ssh se deben seguir los siguientes pasos:
 3. Comprobamos que se puede acceder al repositorio usando ssh.
 ![img](https://raw.githubusercontent.com/MenaBarrera/CC_21_22/main/documentacion/img/clone%20ssh.png)
 
+Activamos la autentificación de doble factor
+![img](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/img/2factor.png)
+
+
 ### Modificar perfil
+Añadimos nuestros datos personales tales como biografia, un pequeño readme y una foto que nos identifique.
+![img](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/img/perfil.png)
 
-
-### Oh my Zsh
