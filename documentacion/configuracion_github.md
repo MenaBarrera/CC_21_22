@@ -16,11 +16,11 @@ Para configurar la clave ssh se deben seguir los siguientes pasos:
 3. Comprobamos que se puede acceder al repositorio usando ssh.
 ![img](https://raw.githubusercontent.com/MenaBarrera/CC_21_22/main/documentacion/img/clone%20ssh.png)
 
-Activamos la autentificación de doble factor
+A continuación activaremos la autentificación de doble factor, para ello será necesario añadir nuestro número de teléfono para recibir los SMS. Tras ello, descargamos el archivo de recuperación de la cuenta y lo guardamos muy bien, ya que será nuestro salvavidas.
 ![img](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/img/2factor.png)
 
 
 ### Modificar perfil
-Añadimos nuestros datos personales tales como biografia, un pequeño readme y una foto que nos identifique.
+Por último modificaremos el perfil. Haremos uso de una funcionalidad de GitHub que consiste en crear un repositorio llamado como nuestro user, el readme.md de este repo aparecerá en nuestro perfil a la derecha del avatar. También se actualizó la biografía reflejando los estudios que se están cursando.
 ![img](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/img/perfil.png)
 
