@@ -1,7 +1,7 @@
 
 # CC_21_22
 
-Repositorio de la asignatura de Cloud Computing perteneciente al Máster en Ingeniería Informática de la Universidad de Granada. La configuración de la cuenta de :octocat:GitHub  puede consultarse [aqui](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/configuracion_github.md)
+Repositorio de la asignatura de Cloud Computing perteneciente al Máster en Ingeniería Informática de la Universidad de Granada.
 
 
 ## MantCAR
@@ -23,6 +23,8 @@ Crear un servicio donde el responsable del taller mecánico introduzca las refer
 Al disponer de las referencias de las piezas (que son identificadores únicos) y el precio que se ha pagado por ellas, se realizará un analisis de la tendencia del precio de cada repuesto, de la estimación de precio en el futuro y de estadisticas que permitan al distribuidor de repuestos anticiparse. Un ejemplo de esto último es que en verano las averias más comunes son las relacionadas con el sistema de aire acondicionado.
 
 Estos datos son valiosos para los distribuidores de piezas ya que, les permiten ajustar el precio al que venden cada repuesto y anticiparse a temporadas donde ciertas piezas se venden más. 
+
+### Documentación adicional sobre la configuración de GitHub :octocat:
 
 
 
