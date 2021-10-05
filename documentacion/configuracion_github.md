@@ -8,7 +8,15 @@ Confirmamos que has establecido correctamente la dirección de correo electróni
 
 ![img](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/img/correo_git.png)
 ### Seguridad
+Con el fin de incrementar la seguridad de la cuenta se configuran la clave ssh para acceder a los repositorios y se configura la autenticación de doble factor.
+
+Para configurar la clave ssh se deben seguir los siguientes pasos:
+1. Crear el par de claves. `ssh-keygen -t ed25519 -C "mamb953@correo.ugr.es" `
+2. Mostrar el contenido de la clave publica y pegarlo en el apartado ssh keys de GitHub.
+3. Comprobamos que se puede acceder al repositorio usando ssh.
+![img](https://raw.githubusercontent.com/MenaBarrera/CC_21_22/main/documentacion/img/clone%20ssh.png)
 
 ### Modificar perfil
+
 
 ### Oh my Zsh
