@@ -27,6 +27,7 @@ Al disponer de las referencias de las piezas (que son identificadores únicos) y
 Estos datos son valiosos para los distribuidores de piezas ya que, les permiten ajustar el precio al que venden cada repuesto y anticiparse a temporadas donde ciertas piezas se venden más. 
 
 #### Documentación adicional sobre la configuración de GitHub :octocat:
+[Enlace a la configuración de la cuenta :octocat:](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/configuracion_github.md)
 
 
 
