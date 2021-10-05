@@ -4,7 +4,7 @@
 Repositorio de la asignatura de Cloud Computing perteneciente al Máster en Ingeniería Informática de la Universidad de Granada.
 
 
-## MantCAR
+## CarThings!
 
 ### Antecedentes
 
