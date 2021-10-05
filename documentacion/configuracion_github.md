@@ -6,7 +6,7 @@ El primer paso antes de usar git es configurar localmente el correo que utilizar
 Confirmamos que has establecido correctamente la dirección de correo electrónico en Git:
 `git config --global user.email` 
 
-[img](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/img/correo_git.png)
+![img](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/img/correo_git.png)
 ### Seguridad
 
 ### Modificar perfil
