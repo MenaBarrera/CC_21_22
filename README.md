@@ -3,7 +3,7 @@
 
 Repositorio de la asignatura de Cloud Computing perteneciente al Máster en Ingeniería Informática de la Universidad de Granada. La configuración de la cuenta de :octocat:GitHub  puede consultarse 
 
-[aqui]: https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/configuracion_github.md
+[aqui!](https://github.com/MenaBarrera/CC_21_22/blob/main/documentacion/configuracion_github.md)
 
  
 
