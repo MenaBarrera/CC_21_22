@@ -16,9 +16,11 @@ Desarollar una herramienta para la gestión y optimización del trabajo para tal
 
 El administrador o responsable del taller introduce una serie de tareas, la aplicación calcula cual debe ser el orden de dichas tareas teniendo en cuenta el tiempo, herramientas necesarias y si se dispone en el taller de las piezas necesarias.
 
-El responsable del taller puede colsultar el inventario de repuestos que tienen en el taller actualmente
+El responsable del taller puede colsultar el inventario de repuestos que tienen en el taller actualmente, la falta de repuestos es tomada en cuenta para la organizacion de las tareas
 
-Los dueños de los talleres recibiran estadisticas sobre el rendimiento de su taller
+Los dueños de los talleres recibiran estadisticas sobre el rendimiento de su taller.
+
+Los mecanicos obtendran la lista de trabajo que deben realizar.
 
 
 ### Documentación adicional sobre la configuración de GitHub :octocat:
