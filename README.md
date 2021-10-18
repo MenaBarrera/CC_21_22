@@ -11,7 +11,9 @@ Repositorio de la asignatura de Cloud Computing perteneciente al Máster en Inge
 
 ## PMV e Historias de usuario
 
-
+Hito 1 [Gestion de personal](https://github.com/MenaBarrera/CC_21_22/milestone/2)
+- dfsdfsdfdf
+- fsfsfsd
 
 
 
