@@ -13,6 +13,8 @@ El responsable del taller puede colsultar el inventario de repuestos que tienen 
 
 Los dueños de los talleres recibirán estadisticas sobre el rendimiento de su taller.
 
-Los mecanicos obtendran la lista de trabajo que deben realizar, en que orden y el tiempo estimado de la reparación.
+Los mecánicos obtendran la lista de trabajo que deben realizar, en que orden y el tiempo estimado de la reparación.
+
+El administrador del taller podra consultar las estadísticas de reparaciones en su taller
 
 
