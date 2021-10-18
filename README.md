@@ -11,9 +11,9 @@ Repositorio de la asignatura de Cloud Computing perteneciente al Máster en Inge
 
 ## PMV e Historias de usuario
 
-Hito 1 [Gestion de personal](https://github.com/MenaBarrera/CC_21_22/milestone/2)
-- dfsdfsdfdf
-- fsfsfsd
+### Hito 1 [Gestion de personal](https://github.com/MenaBarrera/CC_21_22/milestone/2)
+- [[HU1] Dar de alta un trabajador](https://github.com/MenaBarrera/CC_21_22/issues/8)
+- [[HU2] Dar de alta un administrador](https://github.com/MenaBarrera/CC_21_22/issues/9)
 
 
 
