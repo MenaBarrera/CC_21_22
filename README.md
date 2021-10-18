@@ -29,7 +29,7 @@ Contiene las historias de usuario necesarias para crear un pvm que permita admin
 - [[HU09] Consulta de inventario](https://github.com/MenaBarrera/CC_21_22/issues/10) 
 - [[HU10] Eliminar stock](https://github.com/MenaBarrera/CC_21_22/issues/11) 
 - [[HU11] Añadir stock](https://github.com/MenaBarrera/CC_21_22/issues/12)
-- [[HU13]] Comprobar alertas de stock]()
+- [[HU13]] Comprobar alertas de stock](https://github.com/MenaBarrera/CC_21_22/issues/15)
 
 #### Hito 4 [Estadisticas del taller](https://github.com/MenaBarrera/CC_21_22/milestone/4)
 Contiene las historias de usuario necesarias para crear un pvm que permita obtener administradores del taller estadisticas sobre las reparaciones que se han realizado.
