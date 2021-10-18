@@ -15,5 +15,12 @@ Repositorio de la asignatura de Cloud Computing perteneciente al Máster en Inge
 - [[HU1] Dar de alta un trabajador](https://github.com/MenaBarrera/CC_21_22/issues/8)
 - [[HU2] Dar de alta un administrador](https://github.com/MenaBarrera/CC_21_22/issues/9)
 
+### Hito 2 [Administración de tareas](https://github.com/MenaBarrera/CC_21_22/milestone/1)
+- [[HU03] Añadir tarea](https://github.com/MenaBarrera/CC_21_22/issues/3)
+- [[HU04] Eliminar tarea](https://github.com/MenaBarrera/CC_21_22/issues/4)
+- [[HU05] Consultar los planes de trabajo](https://github.com/MenaBarrera/CC_21_22/issues/5)
+- [[HU06] Modificar tarea](https://github.com/MenaBarrera/CC_21_22/issues/6)
+- [[HU07] Asociar los planes de trabajo a un mecánico](https://github.com/MenaBarrera/CC_21_22/issues/7)
+
 
 
